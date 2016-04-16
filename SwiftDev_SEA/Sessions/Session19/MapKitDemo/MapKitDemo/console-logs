@@ -1,0 +1,313 @@
+Optional([1314 6th Ave<GEOMapItemStorage: 0x7f8483c00410> {
+placeData =     {
+component =         (
+{
+"cache_control" = UNCACHEABLE;
+status = "STATUS_FAILED";
+type = "COMPONENT_TYPE_TRANSIT_INFO";
+},
+{
+"cache_control" = UNCACHEABLE;
+status = "STATUS_FAILED";
+type = "COMPONENT_TYPE_TRANSIT_SCHEDULE";
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_TRANSIT_ATTRIBUTION";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_TRANSIT_INCIDENT";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_HOURS";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_RATING";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_TEXT_BLOCK";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_FACTOID";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_FLYOVER";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_BOUNDS";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_ROAD_ACCESS_INFO";
+value =                 (
+{
+"access_info" =                         {
+"road_access_point" =                             (
+{
+drivingDirection = "ENTRY_EXIT";
+isApproximate = 1;
+location =                                     {
+lat = "47.60959034262042";
+lng = "-122.333057032598";
+};
+walkingDirection = "ENTRY_EXIT";
+}
+);
+};
+}
+);
+"values_available" = 1;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_PLACE_INFO";
+value =                 (
+{
+"place_info" =                         {
+center =                             {
+lat = "47.609758";
+lng = "-122.3328738";
+};
+timezone =                             {
+identifier = "America/Los_Angeles";
+};
+};
+}
+);
+"values_available" = 1;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_ENTITY";
+value =                 (
+{
+entity =                         {
+name =                             (
+{
+locale = "en-US";
+"string_value" = "1314 6th Ave";
+}
+);
+type = ADDRESS;
+};
+}
+);
+"values_available" = 1;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_ADDRESS";
+value =                 (
+{
+address =                         {
+"known_accuracy" = POINT;
+"localized_address" =                             (
+{
+address =                                     {
+formattedAddressLine =                                         (
+"1314 6th Ave",
+"Seattle, WA  98101",
+"United States"
+);
+structuredAddress =                                         {
+administrativeArea = Washington;
+administrativeAreaCode = WA;
+country = "United States";
+countryCode = US;
+dependentLocality =                                             (
+Downtown,
+"Central Waterfront",
+CBD
+);
+fullThoroughfare = "1314 6th Ave";
+geoId =                                             (
+);
+locality = Seattle;
+postCode = 98101;
+postCodeExtension = 2305;
+postCodeFull = "98101-2305";
+subAdministrativeArea = King;
+subLocality = CBD;
+subThoroughfare = 1314;
+thoroughfare = "6th Ave";
+};
+};
+language = "en-US";
+}
+);
+};
+}
+);
+"values_available" = 1;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_AMENITIES";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_STYLE_ATTRIBUTES";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+},
+{
+"cache_control" = CACHEABLE;
+"start_index" = 0;
+status = "STATUS_SUCCESS";
+ttl = 43200;
+type = "COMPONENT_TYPE_RESULT_SNIPPET";
+"values_available" = 0;
+version = 9;
+"version_domain" =                 (
+apple,
+revgeo,
+US
+);
+}
+);
+referenceFrame = WGS84;
+"result_provider_id" = 7618;
+status = "STATUS_SUCCESS";
+};
+}])
